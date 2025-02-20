@@ -35,20 +35,21 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+- Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
   - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
-- Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines
+  - Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
- - Unit Testing: Testing individual components or modules of software.
-  - Integration Testing: Testing interactions between different components or subsystems.
-  - System Testing: Testing the entire software system as a whole.
-  - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+
+- Unit Testing: Testing individual components or modules of software.
+- Integration Testing: Testing interactions between different components or subsystems.
+- System Testing: Testing the entire software system as a whole.
+- Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
